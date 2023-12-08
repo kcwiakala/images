@@ -126,8 +126,8 @@
   <ellipse
      style="fill:#000000;stroke-width:1.12695"
      id="path1000"
-     cx="62.547447"
-     cy="71.898628"
+     cx="-37.452553"
+     cy="51.898628"
      inkscape:export-filename="/Users/czarles/Downloads/lama-pilot2.png"
      inkscape:export-xdpi="256.19995"
      inkscape:export-ydpi="256.19995"
@@ -136,29 +136,31 @@
   <ellipse
      style="fill:#000000;stroke-width:1.12695"
      id="path1000-3"
-     cx="33.475117"
-     cy="72.024666"
+     cx="-66.524887"
+     cy="52.024666"
      inkscape:export-filename="/Users/czarles/Downloads/lama-pilot2.png"
      inkscape:export-xdpi="256.19995"
      inkscape:export-ydpi="256.19995"
      rx="5.75"
      ry="7.3025565" />
-  <circle
-     style="fill:#000000;stroke-width:0.75792"
+  <ellipse
+     style="fill:#000000;stroke-width:0.970256"
      id="path1000-3-6"
      cx="32.282669"
-     cy="-13.842972"
-     r="4.3580399"
+     cy="71.373108"
      inkscape:export-filename="/Users/czarles/Downloads/lama-pilot2.png"
      inkscape:export-xdpi="256.19995"
-     inkscape:export-ydpi="256.19995" />
-  <circle
-     style="fill:#000000;stroke-width:0.75792"
+     inkscape:export-ydpi="256.19995"
+     rx="4.3580399"
+     ry="7.1419597" />
+  <ellipse
+     style="fill:#000000;stroke-width:0.970256"
      id="circle1436"
      cx="64.282669"
-     cy="-13.842972"
-     r="4.3580399"
+     cy="71.373108"
      inkscape:export-filename="/Users/czarles/Downloads/lama-pilot2.png"
      inkscape:export-xdpi="256.19995"
-     inkscape:export-ydpi="256.19995" />
+     inkscape:export-ydpi="256.19995"
+     rx="4.3580399"
+     ry="7.1419597" />
 </svg>
